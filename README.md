@@ -1,4 +1,4 @@
-### Olá 👋
+
 <img width="90%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgustavo2308&layout=compact&hide_border=true&title_color=C8A2C8&text_color=C8A2C8&bg_color=0d1117" />
 <!--
 **Luizgustavo2308/Luizgustavo2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
